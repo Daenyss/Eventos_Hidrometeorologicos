@@ -41,7 +41,7 @@ Patrón: Línea, línea
   Color: Anaranjado oscuro (#E69800 / 230, 152, 0)
 
 #### > 20 - 30
-![image](
+![image](https://github.com/Daenyss/Eventos_Hidrometeorologicos/blob/09bd393a74fa4a424e84e46ac7acbd5909b78901/20-30.png)
   Color: Anaranjado (#FFAA00 / 255, 170, 0)
 
 #### > 10 - 20
