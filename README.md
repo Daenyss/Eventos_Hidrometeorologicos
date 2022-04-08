@@ -38,6 +38,7 @@ Patrón: Línea, línea
   Color: Café dorado (#A87000 / 168, 112, 0) 
 
 #### > 30 - 40
+![image](https://github.com/Daenyss/Eventos_Hidrometeorologicos/blob/db5df728d14f5215f5414a072a2452811fe27dcb/30-40.png)
   Color: Anaranjado oscuro (#E69800 / 230, 152, 0)
 
 #### > 20 - 30
