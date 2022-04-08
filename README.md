@@ -32,6 +32,7 @@ Patrón: Línea, línea
 ### Impactos de los Eventos Hidrometeorológicos
 
 #### > 50 - 123
+![image](https://github.com/Daenyss/Eventos_Hidrometeorologicos/blob/fb1cab50a32a803f3e7d12f9f4826b0000935930/50-123.png)
   Color: Café oscuro (#734C00 / 115, 76, 0)
 
 #### > 40 - 50
