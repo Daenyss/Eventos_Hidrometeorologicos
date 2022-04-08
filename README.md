@@ -41,6 +41,7 @@ Patrón: Línea, línea
   Color: Anaranjado oscuro (#E69800 / 230, 152, 0)
 
 #### > 20 - 30
+![image](
   Color: Anaranjado (#FFAA00 / 255, 170, 0)
 
 #### > 10 - 20
