@@ -6,18 +6,18 @@ Descripciones y referencias del proyecto: Impactos de eventos hidrometeorológic
 ### Eventos Hidrometeorológicos
 
 #### Depresiones Tropicales
-  Color: Celeste (#73B2FF / 115, 178, 255)
-  Patrón: Línea, dos puntos, línea 
+ Color: Celeste (#73B2FF / 115, 178, 255)
+ Patrón: Línea, dos puntos, línea 
 
 #### Tormentas Tropicales
 
-  Color: Azul marino (#005CE6 / 0, 92, 230)
-  Patrón: Línea, punto, línea
+ Color: Azul marino (#005CE6 / 0, 92, 230)
+ Patrón: Línea, punto, línea
 
 #### Huracanes
 
-  Color: Azul oscuro (#002673 / )
-  Patrón: Línea, línea 
+ Color: Azul oscuro (#002673 / )
+ Patrón: Línea, línea 
 
 ### Impactos de los Eventos Hidrometeorológicos
 
