@@ -10,7 +10,7 @@ Color: Celeste (#73B2FF / 115, 178, 255)
 
 Patrón: Línea, dos puntos, línea 
 
-![Simbología Depresiones Tropicales.png]
+! [Simbología Depresiones Tropicales.png]
 
 
 #### Tormentas Tropicales
