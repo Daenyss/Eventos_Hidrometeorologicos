@@ -10,7 +10,7 @@ Color: Celeste (#73B2FF / 115, 178, 255)
 
 Patrón: Línea, dos puntos, línea 
 
-![image](https://github.com/margetmartinez/TP6-fotogrametr-a/blob/main/gvSIG.png)
+![image](Simbología Depresiones Tropicales.png) 
 
 ![Simbología Depresiones Tropicales.png]
 
