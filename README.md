@@ -40,6 +40,21 @@ Descripciones y referencias del proyecto: Impactos de eventos hidrometeorológic
   Color: Anaranjado pálido (#FFEBAF / 255, 235, 175)
 
 
+## Referencias 
+
+Centre  for  Research  on  the  Epidemiology  of  Disasters. (2009).  About:  EM-DAT,  The International  Disaster  Data  Base. https://www.emdat.be/ 
+
+Desinventar. (2011). What is DesInventar. Network of Social Studies in the Prevention of Disasters in Latin America. https://www.desinventar.net/DesInventar/about.jsp 
+
+Instituto Meteorológico Nacional de Costa Rica. (s.f).  Boletines Meteorológicos. https://www.imn.ac.cr/boletin-meteorologico 
+
+Iarna-URL, CEAB-UVG, InterU-GRD (2021). Base de datos de incidentes registrados por eventos hidrometeorológicos en Guatemala, por la SE-CONRED (1988-2021). 
+
+National Hurricane Center and Central Pacific Hurricane Center & National Oceanic and Atmospheric Administration. (s.f). Tropical Cyclone Reports. https://www.nhc.noaa.gov/data/tcr/index.php 
+
+Weather Underground. (2022). Hurricane and Tropical Cyclones. https://www.wunderground.com/hurricane/archive 
+
+
 
 
 
