@@ -40,7 +40,7 @@ Descripciones y referencias del proyecto: Impactos de eventos hidrometeorológic
   Color: Anaranjado pálido (#FFEBAF / 255, 235, 175)
 
 
-## Referencias 
+## Fuente de los Datos y Referencias 
 
 Centre  for  Research  on  the  Epidemiology  of  Disasters. (2009).  About:  EM-DAT,  The International  Disaster  Data  Base. https://www.emdat.be/ 
 
