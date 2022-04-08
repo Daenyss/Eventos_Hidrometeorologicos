@@ -12,8 +12,6 @@ Patrón: Línea, dos puntos, línea
 
 ![image](https://github.com/Daenyss/Eventos_Hidrometeorologicos/blob/22ada82d238fe1c9edbd2abea504f281b1ee2c01/Simbolog%C3%ADa%20Depresiones%20Tropicales.png) 
 
-![Simbología Depresiones Tropicales.png]
-
 
 #### Tormentas Tropicales
 
@@ -28,6 +26,8 @@ Patrón: Línea, punto, línea
 Color: Azul oscuro (#002673 / 0, 38, 115)
 
 Patrón: Línea, línea 
+
+![image](https://github.com/Daenyss/Eventos_Hidrometeorologicos/blob/737e2ad717a0018aec861cc42d7f18d2ae25b6f0/Simbolog%C3%ADa%20Huracanes.png)
 
 ### Impactos de los Eventos Hidrometeorológicos
 
