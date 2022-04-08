@@ -21,6 +21,8 @@ Color: Azul marino (#005CE6 / 0, 92, 230)
 
 Patrón: Línea, punto, línea
 
+![image](https://github.com/Daenyss/Eventos_Hidrometeorologicos/blob/63ba405bdc44b20579704f119c2f1aa30061154c/Simbolog%C3%ADa%20Tormentas%20Tropicales%20.png)
+
 #### Huracanes
 
 Color: Azul oscuro (#002673 / 0, 38, 115)
