@@ -7,9 +7,11 @@ Descripciones y referencias del proyecto: Impactos de eventos hidrometeorológic
 
 #### Depresiones Tropicales
 Color: Celeste (#73B2FF / 115, 178, 255)
-![Simbología Depresiones Tropicales]
 
 Patrón: Línea, dos puntos, línea 
+
+![https://github.com/Daenyss/Eventos_Hidrometeorologicos/blob/7f153effbd940a7137ede002fb5e1fb1979ff91a/Simbolog%C3%ADa%20Depresiones%20Tropicales.png]
+
 
 #### Tormentas Tropicales
 
